@@ -83,7 +83,7 @@ const Contact = () => {
                 </Button>
 
                 <Button variant="outline" className="justify-start gap-3 h-12" asChild>
-                  <a href="github.com/AnujKumar1204" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/AnujKumar1204" target="_blank" rel="noopener noreferrer">
                     <Github className="w-5 h-5 text-primary" />
                     GitHub
                   </a>
